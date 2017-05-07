@@ -1,0 +1,24 @@
+{
+  "name": "content-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessandroRomanelli/content-scraper.git"
+  },
+  "author": "Alessandro Romanelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlessandroRomanelli/content-scraper/issues"
+  },
+  "homepage": "https://github.com/AlessandroRomanelli/content-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
